@@ -1,6 +1,10 @@
 # Archive index
 
-Timeline of published entries.
+## Timeline
+
+Full historical spine: **[timeline/](timeline/)**
+
+## Published digests
 
 Format: `date or week | keywords | topics`
 
