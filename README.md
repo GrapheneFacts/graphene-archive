@@ -8,21 +8,39 @@ Short posts on X. Full context, sources, and evidence labels here.
 
 ---
 
-## Browse
+## Browse by time
 
 | Section | Link |
 |---------|------|
 | **Latest weekly** | [2026-W38 (9–16 Sep 2026)](weekly/2026-W38.md) |
-| All weeklies | [weekly/](weekly/) |
-| Daily notes | [daily/](daily/) (added as published) |
-| Running index | [INDEX.md](INDEX.md) |
-| Fringe log | [fringe/log.md](fringe/log.md) |
+| Weeklies | [weekly/](weekly/) |
+| Dailies | [daily/](daily/) |
+| Master index | [INDEX.md](INDEX.md) |
+
+## Browse by topic
+
+| Topic | Folder |
+|-------|--------|
+| Research (papers, preprints, patents) | [topics/research/](topics/research/) |
+| Engineering (devices, process, materials) | [topics/engineering/](topics/engineering/) |
+| Industry (companies, products, plants) | [topics/industry/](topics/industry/) |
+| Finance (funding, markets, awards) | [topics/finance/](topics/finance/) |
+| Health (biomedical, exposure, occupational) | [topics/health/](topics/health/) |
+| Policy (regulators, standards, government) | [topics/policy/](topics/policy/) |
+| Unverified (weak sources, not conspiracy) | [topics/unverified/](topics/unverified/) |
+| Fringe (myths / conspiracy narratives) | [topics/fringe/](topics/fringe/) |
+
+## Recurrence log
+
+Items that are **not new**—resurfaced, repeated, or revisited—are tracked here:
+
+→ **[recurrence/log.md](recurrence/log.md)**
 
 ---
 
 ## Evidence labels
 
-Every item is tagged so readers can separate signal from noise:
+Every item is tagged. **Folder is not a truth claim.**
 
 | Label | Meaning |
 |-------|---------|
@@ -33,20 +51,18 @@ Every item is tagged so readers can separate signal from noise:
 
 ---
 
-## How this is maintained
+## File naming
 
-1. Private daily research runs at 5:00 AM Eastern for the GrapheneFacts workflow.
-2. Selected digests are published here as markdown.
-3. Weekly rollups collect the week’s material with sources and post-ready drafts.
+Topic entries use dates so lists sort cleanly:
 
-Nothing here is medical, investment, or legal advice. Summaries are not substitutes for the primary papers or company disclosures.
+`YYYY-MM-DD-short-slug.md`
+
+Example: `topics/engineering/2026-09-15-ucla-graphene-stencil.md`
 
 ---
 
-## Site URL (GitHub Pages)
-
-After Pages is enabled on this repo (Settings → Pages → Deploy from **main** / root):
+## Site
 
 **https://graphenefacts.github.io/graphene-archive/**
 
-Until then, use the GitHub file links above.
+Nothing here is medical, investment, or legal advice.

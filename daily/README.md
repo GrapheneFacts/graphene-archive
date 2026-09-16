@@ -1,5 +1,3 @@
-# Daily notes
+# Daily digests
 
-Published daily digests will appear here as `YYYY-MM-DD.md`.
-
-Until the first daily is published, use the [weekly compiles](../weekly/).
+Published daily notes: `YYYY-MM-DD.md`
