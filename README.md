@@ -1,8 +1,8 @@
 # GrapheneFacts Public Archive
 
-Open research archive for **[@GrapheneFacts](https://x.com/GrapheneFacts)** on X.
+Open file archive for **[@GrapheneFacts](https://x.com/GrapheneFacts)**.
 
-Short posts on X. Readable write-ups on the site. Full files here.
+Short posts on X. Readable write-ups on the site. Raw files here.
 
 **Public can read. Only the GrapheneFacts account can edit.**
 
@@ -10,9 +10,11 @@ Short posts on X. Readable write-ups on the site. Full files here.
 
 ## Read first
 
-**https://graphenefacts.github.io/quartz/**
+**https://graphenefacts.org**
 
 This repository is the file archive. The Quartz site is the navigable layer (timeline, glossary, index, long reads).
+
+Contact: [contact@graphenefacts.org](mailto:contact@graphenefacts.org)
 
 ## Browse by time (files)
 
