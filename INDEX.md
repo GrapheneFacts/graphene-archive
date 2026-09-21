@@ -20,3 +20,4 @@ Format: `date or week | keywords | topics`
 - 2026-09-18 | Graphene/GO in COVID vaccines claim (fringe) | x-posts/2026-09-18-2100910204200304838.md
 - 2026-09-19 | GMG 1 Ah G CELLS 489 cycles at 10C no fade | x-posts/2026-09-19-2101272594876092841.md
 - 2026-09-20 | Weekly record 14–20 Sep 2026 | x-posts/2026-09-20-2101634980321374677.md
+- 2026-09-21 | 2004 Geim and Novoselov graphene isolation | x-posts/2026-09-21-2101997368405057980.md
