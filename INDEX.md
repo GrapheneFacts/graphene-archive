@@ -22,3 +22,4 @@ Format: `date or week | keywords | topics`
 - 2026-09-20 | Weekly record 14–20 Sep 2026 | x-posts/2026-09-20-2101634980321374677.md
 - 2026-09-21 | 2004 Geim and Novoselov graphene isolation | x-posts/2026-09-21-2101997368405057980.md
 - 2026-09-22 | Stony Brook / SUNY graphene-oxide dew-point and icing film patent | x-posts/2026-09-22-2102359758707769702.md
+- 2026-09-23 | COnovate DOE contract for eCOphite graphene-monoxide anode additive | x-posts/2026-09-23-2102722146514452526.md
